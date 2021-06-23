@@ -1,0 +1,19 @@
+{
+  "name": "display_2",
+  "version": "1.0.0",
+  "description": "this is my test project.",
+  "main": "design.html",
+  "scripts": {
+    "start": "vite"
+  },
+  "author": "Vaibhav Goel",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "postcss": "^8.3.5",
+    "tailwindcss": "^2.1.4"
+  },
+  "dependencies": {
+    "vite": "^2.3.7"
+  }
+}
